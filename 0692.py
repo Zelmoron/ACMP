@@ -7,3 +7,4 @@ if n in data:
     print("YES")
 else:
     print("NO")
+    
