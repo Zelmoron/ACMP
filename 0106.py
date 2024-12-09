@@ -8,4 +8,4 @@ for i in range(n):
     
 zero = data.count(0)
 one = data.count(1)
-print(zero if zero < one else one)
+print(zero if zero < one else one) 
