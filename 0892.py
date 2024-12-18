@@ -13,4 +13,5 @@ elif n > 5 and n < 9:
 elif n > 8 and n<12:
     print(data[0])
 else:
+    
     print("Error")
